@@ -1,0 +1,5 @@
+front end:
+ng serve
+
+backend:
+php -S localhost:8000
